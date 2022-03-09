@@ -56,10 +56,12 @@ superscript^2^
 ###### Header 6
 
 endash: --
-emdash: ---
+
+emdash: --- 
+
 ellipsis: ...
-inline equation: $A = \pi*r^{2}$
-image: ![](path/to/smallorb.png)
+
+inline equation: $A = \pi*r^{2}$ 
 
 horizontal rule (or slide break):
 ***
@@ -70,13 +72,23 @@ horizontal rule (or slide break):
  + sub-item 2
 
 1. ordered list
+
 2. item 2
+
  + sub-item 1
+ 
  + sub-item 2
+ 
 Table Header | Second Header
+
 ------------- | -------------
+
 Table Cell | Cell 2
-Cell 3 | Cell 4
+
+Cell 3 | Cell 4 
+
+
+
 
 
 
