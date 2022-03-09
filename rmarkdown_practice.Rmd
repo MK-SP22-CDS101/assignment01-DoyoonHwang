@@ -1,7 +1,7 @@
 ---
 title: "Assignment 1: R Markdown practice"
 author: "Doyoon Hwang"
-date: "`r Sys.Date()`"
+date: "03-09-2022"
 documentclass: article
 geometry: margin=1in
 fontsize: 11pt
